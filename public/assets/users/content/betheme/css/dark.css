@@ -1,0 +1,151 @@
+/****** Home Page ******/
+
+.home #Header {
+    background: rgb(0 0 0 / 96%);
+}
+
+.home #Top_bar .menu>li>a {
+    color: #fff;
+}
+
+.home #Top_bar .menu .current_page_item span {
+    color: #151de0;
+}
+
+.home #mfn-rev-slider h6 a {
+    border: 2px solid #fff;
+    color: #fff;
+}
+
+#mfn-rev-slider h6 a:hover {
+    border: 2px solid #fff;
+}
+
+#mfn-rev-slider p {
+    color: #fff;
+}
+
+#Content {
+    background-color: #000;
+}
+
+.work_place h2 {
+    color: #fff;
+}
+
+.work_place h2 span {
+    color: #1e188a;
+}
+
+.grid .post-item {
+    box-shadow: 0 0 10px #333;
+}
+
+.team_section h3 {
+    color: #aaa;
+}
+
+.work_place h4 {
+    color: #aaa;
+}
+
+.main_modelling p {
+    color: #aaa;
+}
+
+.team_section p {
+    color: #aaa;
+}
+
+.fancy_heading .title {
+    color: #aaa;
+}
+
+.fancy_heading p {
+    color: #aaa;
+}
+
+
+
+@media only screen and (min-width: 1240px) {
+    #Top_bar.is-sticky {
+        background: #000 !important;
+    }
+}
+
+/****** Login Page ******/
+
+.auth #Header_wrapper {
+    background: linear-gradient(90deg, #1E188A 50%, #000 50%);
+}
+
+.auth_section {
+    background: linear-gradient(90deg, #1E188A 50%, #000 50%);
+}
+
+.auth #Top_bar .menu>li>a,.auth #Top_bar #menu ul li.submenu .menu-toggle {
+    color: #fff;
+}
+
+.auth #Top_bar .menu .current_page_item span {
+    color: #151de0;
+}
+
+.auth #Action_bar .social li a {
+    color: #aaa;
+}
+
+
+@media only screen and (min-width: 1240px) {
+    #Top_bar.is-sticky #logo {
+        padding: 10px 0 !important;
+    }
+}
+
+.auth #Top_bar {
+    border-top: 1px solid rgb(255 255 255 / 25%);
+}
+
+.auth .auth_content p {
+    color: #fff;
+}
+
+
+/****** Register Page ******/
+
+
+.auth-register #Header_wrapper {
+    background: linear-gradient(90deg, #000 50%, #1E188A 50%);
+}
+
+.auth-register #Top_bar {
+    border-top: 1px solid rgb(255 255 255 / 25%);
+}
+
+.auth_register_section {
+    background: linear-gradient(90deg, #000 50%, #1E188A 50%);
+}
+
+.auth_register_form h6 {
+    color: #aaa;
+}
+
+.auth_register_form h6 a {
+    color: #fff !important;
+}
+
+.auth_register_form h4 {
+    color: #fff;
+}
+
+.main-block-land {
+    margin-top: 15px;
+    top: 15px;
+    left: 0;
+    
+}
+
+
+
+
+

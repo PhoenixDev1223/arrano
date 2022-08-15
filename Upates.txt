@@ -1,0 +1,13 @@
+Hello Guys Here We Will Upate The The WHich We Have Done And Work Which We Have to Achive.
+
+Date : 25/05/2021
+  Work Completed 
+
+
+Need To Work On 
+1. Site Speed Improvemnts 
+2. Wallet Balance Fetching In USD 
+3. The Colours And Other Alinments Of Design 
+4. The Price Of Trade In USD 
+5. TradingView Chart Implimenting 
+6. 
